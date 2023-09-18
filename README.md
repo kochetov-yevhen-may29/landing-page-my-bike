@@ -1,6 +1,5 @@
 # Landing page
 
-
 Welcome to the Landing Page for "My Bike." This is a landing page for a fictional bike rental service designed to showcase its features and attract potential customers.
 
 ## Features
@@ -11,7 +10,11 @@ Welcome to the Landing Page for "My Bike." This is a landing page for a fictiona
 - High-quality images of bikes and bike-related activities.
 - Contact information for customer inquiries.
 
-## Getting Started
+### DEMO
+
+https://kochetov-yevhen-may29.github.io/landing-page-my-bike/
+
+#### Getting Started
 
 To view the "My Bike" Landing Page, simply follow these steps:
 
